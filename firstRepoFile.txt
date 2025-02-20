@@ -1,0 +1,7 @@
+Hi
+this is file download from GITHUB to LOCAL server EC2 user
+make directory in EC2 server as mkdir Repos
+clone through git clone "HTTPS" link
+and apply ls to check files 
+and redirect to cd Jayachandran-public
+create file and enter content

@@ -1,0 +1,16 @@
+hi
+this to check git push works through alias name 
+command syntax as " git remote add <alias name> <HttpsLink> "
+
+sample as : git remote add origin https://github.com/Jayachandran-S7/Jayachandran-Public.git
+
+so going forward, we use " git push origin "
+follow this u can give username and password to push changes from local into Remote
+
+
+this is how we push changes from LOCAL to REMOTE
+
+
+it's simply shortcut 
+
+for push command " git push origin" is default command

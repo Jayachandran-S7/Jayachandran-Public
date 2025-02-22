@@ -1,0 +1,7 @@
+Hi 
+this file created in 1st branch
+purpose of creating this file is to validate that 1st branch (file : branchSecond) is able to see in another branch (2nd) 
+expected result is in 2nd branch we suppose not to see branchSecond 
+
+so only in branch 1st alone need to see
+ 

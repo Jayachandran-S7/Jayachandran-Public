@@ -14,5 +14,3 @@ this is how we push changes from LOCAL to REMOTE
 it's simply shortcut 
 
 for push command " git push origin" is default command
-
-check for GIT REVERT

@@ -1,3 +1,7 @@
 Hi 
 we are checking Git Reset Here
 Git Reset file - soft reset
+
+Check Soft Reset
+Check Mixed Reset
+Check for Hard Reset

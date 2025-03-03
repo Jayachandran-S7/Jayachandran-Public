@@ -1,0 +1,3 @@
+Hi 
+we are checking Git Reset Here
+Git Reset file - soft reset
